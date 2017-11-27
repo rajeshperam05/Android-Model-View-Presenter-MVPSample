@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPSample</string>
+    <string name="user_name">UserName</string>
+    <string name="password">Password</string>
+</resources>
